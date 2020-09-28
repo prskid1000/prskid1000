@@ -6,7 +6,7 @@
 - 📫 I am persuing my graduation at: [Indian Institute of Information Technology, Ranchi](iiitranchi.ac.in)
 
 <br><br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=prskid1000&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=prskid1000&show_icons=true&theme=radical&layout=compact)
 
 <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prskid1000&show_icons=true&theme=radical&langs_count=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prskid1000&show_icons=true&theme=radical&langs_count=20&layout=compact)
