@@ -6,7 +6,7 @@
 - 📫 I am persuing my graduation at: [Indian Institute of Information Technology, Ranchi](iiitranchi.ac.in)
 
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prskid1000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prskid1000)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
 <br><br>
-[![Prithwiraj's github stats](https://github-readme-stats.vercel.app/api?username=prskid1000)](https://github.com/anuraghazra/github-readme-stats)
+[![Prithwiraj's github stats](https://github-readme-stats.vercel.app/api?username=prskid1000)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
 
