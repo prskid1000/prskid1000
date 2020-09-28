@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning DevOps and Data Science
 - 👯 I’m looking to collaborate on Web and App Development
 
-
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prskid1000)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
