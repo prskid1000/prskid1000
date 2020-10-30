@@ -6,6 +6,8 @@
 - 📫 I am persuing my graduation at: [Indian Institute of Information Technology, Ranchi](iiitranchi.ac.in)
 
 ### Visit my Portfolio [here](http://biograph.dx.am)
+### Visit my Youtube [here](https://www.youtube.com/channel/UCv6O2Anrx25X1GYyricBDWQ)
+### Visit my Blog  [Here](https://progwithme.blogspot.com)
 
 <br><br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=prskid1000&show_icons=true&theme=radical&layout=compact)
