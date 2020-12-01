@@ -6,7 +6,7 @@
 - 📫 I am persuing my graduation at: [Indian Institute of Information Technology, Ranchi](iiitranchi.ac.in)
 
 - ### Visit my Portfolio [here](http://biograph.dx.am)
-- ### Visit my Youtube Channel [here](https://www.youtube.com/channel/UCv6O2Anrx25X1GYyricBDWQ)
+- ### Visit my Youtube Channel(Creatible) [here](https://www.youtube.com/channel/UCv6O2Anrx25X1GYyricBDWQ)
 - ### Visit my Blog(CPCoders)  [Here](https://progwithme.blogspot.com)
 
 <br><br>
