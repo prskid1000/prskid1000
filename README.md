@@ -44,13 +44,13 @@
 - 👯 I’m looking to collaborate on Web and App Development
 - 📫 I am persuing my graduation at: [Indian Institute of Information Technology, Ranchi](iiitranchi.ac.in)
 
-- ### Visit CodeNut[here](https://codenut.netlify.app/)
-- ### Visit IChat[here](https://ichatweb.netlify.app/)
-- ### Visit WellCart[here](https://wellcart.netlify.app/) 
-- ### Visit Attenbuddy[here](https://attenbuddy.herokuapp.com/)
-- ### Visit Certificate Engine[here](https://cehg.netlify.app/) 
-- ### Visit my Youtube Channel(Creatible) [here](https://www.youtube.com/channel/UCv6O2Anrx25X1GYyricBDWQ)
-- ### Visit my Blog(CPCoders)  [Here](https://progwithme.blogspot.com)
+- Visit [CodeNut](https://codenut.netlify.app/)
+- Visit [IChat](https://ichatweb.netlify.app/)
+- Visit [WellCart](https://wellcart.netlify.app/) 
+- Visit [Attenbuddy](https://attenbuddy.herokuapp.com/)
+- Visit [Certificate Engine](https://cehg.netlify.app/) 
+- Visit my Youtube Channel[(Creatible)](https://www.youtube.com/channel/UCv6O2Anrx25X1GYyricBDWQ)
+- Visit my Blog[(CPCoders)](https://progwithme.blogspot.com)
 
 <br><br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=prskid1000&show_icons=true&theme=radical&layout=compact)
