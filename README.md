@@ -28,7 +28,7 @@
 <a href="https://www.codechef.com/users/prskid1000">
   <img align="left" alt="prskid1000 | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
-<a href="https://www.youracclaim.com/users/prskid1000">
+<a href="https://www.youracclaim.com/users/prithwiraj-samanta">
   <img align="left" alt="prskid1000 | Acclaim" height="22px" src="https://theme.zdassets.com/theme_assets/2382499/d2e455f37a41d85f6db43eba506997c548348b5a.png" />
 </a>
 <a href="https://dev.to/prskid1000">
