@@ -39,6 +39,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=prskid1000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+
+<br><br>
+<b><ul>About Me</ul></b>
 - 🔭 I’m currently working on [House of Geeks Projects](https://github.com/houseofgeeks)
 - 🌱 I’m Online Educator at Youtube Channel-[(Creatible)](https://www.youtube.com/channel/UCv6O2Anrx25X1GYyricBDWQ)
 - 👯 I’m looking to collaborate on Web and App Development
@@ -46,16 +50,16 @@
 
 <br><br>
 <b><ul>Top projects</ul></b>
-- Visit [CodeTunnel](https://codetunnel.netlify.app/)
-- Visit [CodeNut](https://codenut.netlify.app/)
-- Visit [IChat](https://ichatweb.netlify.app/)
-- Visit [WellCart](https://wellcart.netlify.app/) 
-- Visit [Attenbuddy](https://attenbuddy.herokuapp.com/)
-- Visit [Certificate Engine](https://cehg.netlify.app/) 
+- Interview Platform [CodeTunnel](https://codetunnel.netlify.app/)
+- Question-Answer Portal [CodeNut](https://codenut.netlify.app/)
+- Random Chat [IChat](https://ichatweb.netlify.app/)
+- E-Commerce Store [WellCart](https://wellcart.netlify.app/) 
+- Attendance Management System [Attenbuddy](https://attenbuddy.herokuapp.com/)
+- Event Data Management and Certificate Generation [Certificate Engine](https://cehg.netlify.app/) 
 
-<br><br>
-- Visit My Blog[(CPCoders)](https://progwithme.blogspot.com)
-- Visit My Portfolio[(Biograph)](http://biograph.dx.am)
+
+Visit My Blog[(CPCoders)](https://progwithme.blogspot.com)
+Visit My Portfolio[(Biograph)](http://biograph.dx.am)
 
 <br><br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=prskid1000&show_icons=true&theme=radical&layout=compact)
