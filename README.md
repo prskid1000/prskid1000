@@ -40,7 +40,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=prskid1000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [House of Geeks Projects](https://github.com/houseofgeeks)
-- 🌱 I’m currently learning DevOps and Data Science
+- 🌱 I’m currently learning DevOps
+- 🌱 I’m Online Educator at Youtube Channel-Creatibles
 - 👯 I’m looking to collaborate on Web and App Development
 - 📫 I am persuing my graduation at: [Indian Institute of Information Technology, Ranchi](iiitranchi.ac.in)
 
