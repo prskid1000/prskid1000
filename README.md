@@ -39,8 +39,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=prskid1000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-
 <br><br>
 <b><ul>About Me</ul></b>
 - 🔭 I’m currently working on [House of Geeks Projects](https://github.com/houseofgeeks)
