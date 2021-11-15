@@ -57,8 +57,9 @@
 - Attendance Management System [Attenbuddy](https://attenbuddy.herokuapp.com/)
 - Event Data Management and Certificate Generation [Certificate Engine](https://cehg.netlify.app/) 
 
-
+<br>
 Visit My Blog[(CPCoders)](https://progwithme.blogspot.com)
+<br>
 Visit My Portfolio[(Biograph)](http://biograph.dx.am)
 
 <br><br>
