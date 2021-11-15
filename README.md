@@ -41,9 +41,9 @@
 
 <br><br>
 <b><ul>About Me</ul></b>
-- 🔭 I’m currently working on [House of Geeks Projects](https://github.com/houseofgeeks)
+- 🔭 I’m Maintainer of [House of Geeks Projects](https://github.com/houseofgeeks)
 - 🌱 I’m Online Educator at Youtube Channel-[(Creatible)](https://www.youtube.com/channel/UCv6O2Anrx25X1GYyricBDWQ)
-- 👯 I’m looking to collaborate on Web and App Development
+- 👯 I’m creating new open source projects that can be reused.
 - 📫 I am persuing my graduation at: [Indian Institute of Information Technology, Ranchi](iiitranchi.ac.in)
 
 <br><br>
