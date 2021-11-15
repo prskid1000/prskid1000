@@ -44,8 +44,8 @@
 - 👯 I’m looking to collaborate on Web and App Development
 - 📫 I am persuing my graduation at: [Indian Institute of Information Technology, Ranchi](iiitranchi.ac.in)
 
-
-<b><ul>My Top projects</ul></b>
+<br><br>
+<b><ul>Top projects</ul></b>
 - Visit [CodeTunnel](https://codetunnel.netlify.app/)
 - Visit [CodeNut](https://codenut.netlify.app/)
 - Visit [IChat](https://ichatweb.netlify.app/)
@@ -53,6 +53,7 @@
 - Visit [Attenbuddy](https://attenbuddy.herokuapp.com/)
 - Visit [Certificate Engine](https://cehg.netlify.app/) 
 
+<br><br>
 - Visit My Blog[(CPCoders)](https://progwithme.blogspot.com)
 - Visit My Portfolio[(Biograph)](http://biograph.dx.am)
 
