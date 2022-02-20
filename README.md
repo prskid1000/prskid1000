@@ -1,42 +1,5 @@
 ### Hi there 👋
 
-<a href="https://www.facebook.com/prskid1000">
-  <img align="left" alt="prskid1000 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/prskid1000">
-  <img align="left" alt="prskid1000 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.linkedin.com/in/prskid1000">
-  <img align="left" alt="prskid1000 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/prskid1000">
-  <img align="left" alt="prskid1000 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.youtube.com/c/Creatibles">
-  <img align="left" alt="prskid1000 | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="https://www.quora.com/profile/Prithwiraj-Samanta-1">
-  <img align="left" alt="prskid1000 | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
-</a>
-
-<a href="https://stackoverflow.com/users/13244554/prithwiraj-samanta">
-  <img align="left" alt="prskid1000 | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
-</a>
-<a href="https://www.hackerrank.com/prskid1000">
-  <img align="left" alt="prskid1000 | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"/>
-</a>
-<a href="https://www.codechef.com/users/prskid1000">
-  <img align="left" alt="prskid1000 | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
-<a href="https://www.youracclaim.com/users/prithwiraj-samanta">
-  <img align="left" alt="prskid1000 | Acclaim" height="22px" src="https://theme.zdassets.com/theme_assets/2382499/d2e455f37a41d85f6db43eba506997c548348b5a.png" />
-</a>
-<a href="https://dev.to/prskid1000">
-  <img align="left" alt="prskid1000 | DEV.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>
-<br>
-<br>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=prskid1000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br><br>
