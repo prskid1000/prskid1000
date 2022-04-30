@@ -22,8 +22,6 @@
 
 <br>
 Visit My Blog (https://progwithme.blogspot.com)
-<br>
-Visit My Portfolio (http://biograph.dx.am)
 
 <br><br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=prskid1000&show_icons=true&theme=radical&layout=compact)
