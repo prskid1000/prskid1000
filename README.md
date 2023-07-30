@@ -5,7 +5,7 @@
 <br><br>
 <b><ul>About Me</ul></b>
 - 🔭 I’m Maintainer of [House of Geeks Projects](https://github.com/houseofgeeks)
-- 🌱 I’m Content Creator at Youtube Channel-[(Creatible)]
+- 🌱 I’m Content Creator at Youtube Channel-[Creatible]
 - 👯 I’m creating new open source projects that can be reused.
 - 📫 I am persuing my graduation at: [Indian Institute of Information Technology, Ranchi](iiitranchi.ac.in)
 
