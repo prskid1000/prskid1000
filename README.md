@@ -5,20 +5,20 @@
 <br><br>
 <b><ul>About Me</ul></b>
 - 🔭 I’m Maintainer of [House of Geeks Projects](https://github.com/houseofgeeks)
-- 🌱 I’m Content Creator at Youtube Channel-[(Creatible)](https://www.youtube.com/channel/UCv6O2Anrx25X1GYyricBDWQ)
+- 🌱 I’m Content Creator at Youtube Channel-[(Creatible)]
 - 👯 I’m creating new open source projects that can be reused.
 - 📫 I am persuing my graduation at: [Indian Institute of Information Technology, Ranchi](iiitranchi.ac.in)
 
 <br><br>
 <b><ul>Top projects</ul></b>
-- Interview Platform [CodeTunnel](https://codetunnel.netlify.app/)
-- Browser-based Game-Engine [Pixel-Engine](https://pixel-engine.netlify.app/)
-- Cell Evolution Simulator [EvoSim](https://evosim.netlify.app/)
-- Question-Answer Portal [CodeNut](https://codenut.netlify.app/)
-- Random Chat [IChat](https://ichatweb.netlify.app/)
-- E-Commerce Store [WellCart](https://wellcart.netlify.app/) 
-- Attendance Management System [Attenbuddy](https://attenbuddy.herokuapp.com/)
-- Event Data Management and Certificate Generation [Certificate Engine](https://cehg.netlify.app/) 
+- Interview Platform [CodeTunnel]
+- Browser-based Game-Engine [Pixel-Engine]
+- Cell Evolution Simulator [EvoSim]
+- Question-Answer Portal [CodeNut]
+- Random Chat [IChat]
+- E-Commerce Store [WellCart]
+- Attendance Management System [Attenbuddy]
+- Event Data Management and Certificate Generation [Certificate Engine]
 
 <br>
 Visit My Blog (https://progwithme.blogspot.com)
